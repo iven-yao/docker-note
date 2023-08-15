@@ -23,3 +23,6 @@ Isolation and less cost.
 |`docker container prune`|to delete all containers that are stopped|
 |`docker rmi`|to delete all the images that no longer needed|
 
+## Airflow With Docker
+[Run Airflow in Docker](https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html)
+[Use Docker and Airflow to Deploy A Model](https://medium.com/sfu-cspmp/use-docker-and-airflow-to-deploy-your-data-science-workflow-dc17982d8dd8)
